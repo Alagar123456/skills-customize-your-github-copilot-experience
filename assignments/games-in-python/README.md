@@ -11,7 +11,7 @@ Create a Hangman game where players guess letters to reveal a hidden word before
 
 ## 📝 Tasks
 
-### 🛠️ Build the hangman game
+### 🛠️ Build the Hangman Game
 
 Your game must:
 - Randomly select words from a predefined list
